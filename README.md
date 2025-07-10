@@ -35,9 +35,8 @@ This project presents a compact, stackable **Battery Management System (BMS)** d
 
 | Folder | Description |
 |--------|-------------|
-| `/KiCad_PCB/` | Schematic, layout, and Gerber files for the PCB |
-| `/Images/` | Photos of hardware, layout, schematic, and testing |
-| `/Simulation/` | Screenshot of MATLAB SoC model |
+| `/KiCad/` | Schematic, layout, and Gerber files for the PCB |
+| `/screenshots/` | Photos of hardware, layout, schematic, and testing |
 | `README.md` | Project summary |
 | `LICENSE` | MIT License (recommended for open source use) |
 
