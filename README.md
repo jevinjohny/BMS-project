@@ -46,13 +46,13 @@ This project presents a compact, stackable **Battery Management System (BMS)** d
 ## 🖼️ Preview
 
 ### 🔌 PCB Design
-![Layout](screenshot/layout.png)
+![Layout](screenshots/layout.png)
 
 ### 🧪 Testing
-![Testing](screenshot/testing1.jpg)
+![Testing](screenshots/testing1.jpg)
 
 ### 📊 MATLAB Simulation
-![Simulation](screenshot/matlabsimulation.png)
+![Simulation](screenshots/matlabsimulation.png)
 
 ---
 
