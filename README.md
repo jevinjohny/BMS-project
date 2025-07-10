@@ -44,7 +44,7 @@ This project presents a compact, stackable **Battery Management System (BMS)** d
 
 ## 🖼️ Preview
 ### 🔌 Schematic
-![Schematic](screenshots/layout.png")
+![Schematic](screenshots/schematic.png")
 
 ### 🔌 PCB Design
 ![Layout](screenshots/layout.png)
